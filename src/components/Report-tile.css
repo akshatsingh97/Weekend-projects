@@ -1,0 +1,19 @@
+.report-tile{
+
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    height: 500px;
+    width: 400px;
+
+    img{
+        height: 200px;
+        width: 200px;
+        margin: auto;
+    }
+}
+
+.api-block {
+    display: flex;
+    flex-wrap: wrap;
+}
